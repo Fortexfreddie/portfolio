@@ -6,7 +6,7 @@ const Projects = () => {
         <div id="project">
             <div className="min-h-screen bg-gradient-to-b from-gray-950 to-black">
                 <div className="py-20 px-10">
-                    <div className="flex flex-col items-center gap-4 mb-10" data-aos="fade-down-right">
+                    <div className="flex flex-col items-center gap-4 mb-10 text-center" data-aos="fade-down-right">
                         <p className="Geist md:text-md text-sm font-medium tracking-wider text-center text-gray-400">PORTFOLIO</p>
                         <h1 className="Geist text-gray-200  md:text-5xl text-3xl font-bold">Selected <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-500 to-green-700">Projects</span></h1>
                         <div className="w-40 h-px mx-auto bg-gradient-to-r from-green-900 via-green-500 to-green-900"></div>
@@ -30,7 +30,7 @@ const Projects = () => {
                                     <div className="p-6">
                                         <div>
                                             <div className="flex flex-row justify-between items-center">
-                                                <p className="Geist text-2xl font-semibold text-gray-200 mb-4">Tech Maverick</p>
+                                                <p className="Geist text-2xl font-semibold text-gray-200 mb-4">Examly</p>
                                                 <span className="Geist text-sm font-medium px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 mb-4">Live</span>
                                             </div>
                                             <p className="text-lg text-gray-400 mb-4">The official certification Examination platform for Human-Computer interface.</p>

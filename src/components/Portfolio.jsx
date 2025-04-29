@@ -75,7 +75,7 @@ const Portfolio = () => {
                                         whileHover={{ scale: 1.3 }}
                                         whileTap={{ scale: 0.9 }}
                                         className="p-3 rounded-full bg-transparent hover:bg-green-900/30 transition-colors duration-300 cursor-pointer"
-                                        onClick={() => window.open('https://api.whatsapp.com/send?phone=1234567890', '_blank')}
+                                        onClick={() => window.open('https://api.whatsapp.com/send?phone=+2347085062472', '_blank')}
                                     >
                                         <FaWhatsapp size={30} className="text-gray-200 hover:text-green-500" />
                                     </motion.div>
@@ -84,7 +84,7 @@ const Portfolio = () => {
                                         whileHover={{ scale: 1.3 }}
                                         whileTap={{ scale: 0.9 }}
                                         className="p-3 rounded-full bg-transparent hover:bg-green-900/30 transition-colors duration-300 cursor-pointer"
-                                        onClick={() => window.open('', '_blank')}
+                                        onClick={() => window.open('https://github.com/Fortexfreddie', '_blank')}
                                     >
                                         <FaGithub size={30} className="text-gray-200 hover:text-green-500" />
                                     </motion.div>
@@ -93,7 +93,7 @@ const Portfolio = () => {
                                         whileHover={{ scale: 1.3 }}
                                         whileTap={{ scale: 0.9 }}
                                         className="p-3 rounded-full bg-transparent hover:bg-green-900/30 transition-colors duration-300 cursor-pointer"
-                                        onClick={() => window.open('https://twitter.com/yourprofile', '_blank')}
+                                        onClick={() => window.open('https://x.com/Fortexfreddie', '_blank')}
                                     >
                                         <FaTwitter size={30} className="text-gray-200 hover:text-green-500" />
                                     </motion.div>
