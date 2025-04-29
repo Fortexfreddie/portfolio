@@ -1,7 +1,7 @@
 import Portfolio from "./Portfolio";
 import Stack from "./Stack";
 import Journey from "./Journey";
-import Projects from "./projects";
+import Projects from "./Projects";
 
 
 const Home = () => {
