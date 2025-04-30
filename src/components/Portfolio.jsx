@@ -24,7 +24,7 @@ const Portfolio = () => {
                         <a href="#home" className="Geist text-neutral-300 text-md hover:text-white">Home</a>
                         <a href="#about" className="Geist text-neutral-300 text-md hover:text-white">About</a>
                         <a href="#project" className="Geist text-neutral-300 text-md hover:text-white">Projects</a>
-                        <a href="#contact" className="Geist text-neutral-300 text-md hover:text-white">Contact</a>
+                        <a href="#stack" className="Geist text-neutral-300 text-md hover:text-white">Stacks</a>
                         </div>
                     </div>
                     <div className="flex flex-1 flex-col md:flex-row items-center justify-center gap-8 md:gap-40">

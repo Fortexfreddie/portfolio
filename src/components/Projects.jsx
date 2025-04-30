@@ -5,7 +5,7 @@ const Projects = () => {
     return ( 
         <div id="project">
             <div className="min-h-screen bg-gradient-to-b from-gray-950 to-black">
-                <div className="py-20 px-10">
+                <div className="pt-20 pb-10 px-10">
                     <div className="flex flex-col items-center gap-4 mb-10 text-center" data-aos="fade-down-right">
                         <p className="Geist md:text-md text-sm font-medium tracking-wider text-center text-gray-400">PORTFOLIO</p>
                         <h1 className="Geist text-gray-200  md:text-5xl text-3xl font-bold">Selected <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-500 to-green-700">Projects</span></h1>
@@ -142,7 +142,7 @@ const Projects = () => {
                                                     <p className="Geist text-sm font-medium">Visit Live Site</p>
                                                 </a>
                                             </div>
-                                            <p className="Geist text-4xl font-bold text-gray-700">TM</p>
+                                            <p className="Geist text-4xl font-bold text-gray-700">EX</p>
                                         </div>
                                     </div>
                                     <div className="p-6">
@@ -172,6 +172,21 @@ const Projects = () => {
                                 </div>
                             </div>
                         </div>
+                    </div>
+                    <div className="flex flex-col items-center justify-center mt-10" data-aos="zoom-in-up">
+                        <div className="text-center mb-5">
+                            <p className="Geist font-medium tracking-wider text-green-600">Want to see more of my work?</p>
+                        </div>
+                        <div>
+                            <a href="https://github.com/Fortexfreddie" target="_blank" className="flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-gray-800 to-gray-900 hover:from-gray-700 hover:to-gray-800 rounded-lg border border-gray-800 hover:border-green-700 text-gray-300 hover:text-green-600 transition-all duration-300">
+                                <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="18" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+                                View Github Portfolio
+                            </a>
+                        </div>
+                    </div>
+                    <div className="mt-20 text-center">
+                        <p className="text-sm text-gray-400">© 2025 Freddie's Works. All rights reserved.</p>
+                        <p className="text-sm text-gray-500">Made with ❤️</p>
                     </div>
                 </div>
             </div>        

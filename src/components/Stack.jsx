@@ -4,7 +4,7 @@ import { SiTypescript, SiMongodb, SiTailwindcss, SiPhp, SiJavascript } from 'rea
 
 const Stack = () => {
     return ( 
-        <div>
+        <div id="stack">
             <div className="min-h-screen bg-gradient-to-b from-black via-green-900 to-gray-950">
                 <div className="py-20 px-10">
                     <div className="flex flex-col items-center gap-4 mb-10" data-aos="fade-down-right">
