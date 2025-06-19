@@ -32,7 +32,7 @@ const Projects = () => {
 
     const inDevelopmentProject = [ 
         {
-            title: "In progress",
+            title: "progress",
             url: "#",
             description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur, laudantium",
             imgText: "IP",
