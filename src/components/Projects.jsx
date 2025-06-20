@@ -1,9 +1,18 @@
 import Conference from "../assets/images/conference.png";
 import Examly from "../assets/images/Examly.png";
 import skydrone from "../assets/images/skydrone.png";
+import lodgeFinder from "../assets/images/lodgeFinder.png";
 
 const Projects = () => {
     const projects = [
+        {
+            title: "Lodge Finder",
+            url: "https://lodgefinders.netlify.app",
+            description: "A platform for finding and booking lodges, hotels, and guest houses.",
+            image: lodgeFinder,
+            alt: "Lodge Finder",
+            tags: ["Lodging", "React", "CSS", "Tailwind", "PHP", "MySQL"]
+        },
         {
             title: "Skydrone",
             url: "https://skydrones.netlify.app",
