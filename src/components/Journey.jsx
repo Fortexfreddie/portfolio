@@ -24,13 +24,12 @@ const Journey = () => {
                                 </div>
                                 <div>
                                     <p className="text-md text-gray-400 mb-4">
-                                        I specialize in crafting robust backend systems using Express.js and Node.js, with a deep understanding of RESTful APIs, authentication flows, and scalable architectures that power real-world applications.
+                                        I specialize in crafting robust backend systems using PHP and Express.js, with a deep understanding of RESTful APIs, authentication flows, and scalable architectures that power real-world applications.
                                     </p>
                                 </div>
                                 <div className="flex flex-wrap gap-2">
-                                    <span className="Geist text-sm text-gray-400 font-medium bg-gray-800 rounded border border-gray-800 py-1 px-3">Express.js</span>
-                                    <span className="Geist text-sm text-gray-400 font-medium bg-gray-800 rounded border border-gray-800 py-1 px-3">Node.js</span>
                                     <span className="Geist text-sm text-gray-400 font-medium bg-gray-800 rounded border border-gray-800 py-1 px-3">PHP</span>
+                                    <span className="Geist text-sm text-gray-400 font-medium bg-gray-800 rounded border border-gray-800 py-1 px-3">Express.js</span>
                                     <span className="Geist text-sm text-gray-400 font-medium bg-gray-800 rounded border border-gray-800 py-1 px-3">Authentication</span>
                                 </div>
                             </div>
@@ -54,11 +53,11 @@ const Journey = () => {
                                     </p>
                                 </div>
                                 <div className="flex flex-wrap gap-2">
+                                    <span className="Geist text-sm text-gray-400 font-medium bg-gray-800 rounded border border-gray-800 py-1 px-3">React</span>
+                                    <span className="Geist text-sm text-gray-400 font-medium bg-gray-800 rounded border border-gray-800 py-1 px-3">PHP</span>
                                     <span className="Geist text-sm text-gray-400 font-medium bg-gray-800 rounded border border-gray-800 py-1 px-3">Express.js</span>
-                                    <span className="Geist text-sm text-gray-400 font-medium bg-gray-800 rounded border border-gray-800 py-1 px-3">Node.js</span>
-                                    <span className="Geist text-sm text-gray-400 font-medium bg-gray-800 rounded border border-gray-800 py-1 px-3">Mentoring</span>
-                                    <span className="Geist text-sm text-gray-400 font-medium bg-gray-800 rounded border border-gray-800 py-1 px-3">Full Stack</span>
-                                    <span className="Geist text-sm text-gray-400 font-medium bg-gray-800 rounded border border-gray-800 py-1 px-3">Code Review</span>
+                                    <span className="Geist text-sm text-gray-400 font-medium bg-gray-800 rounded border border-gray-800 py-1 px-3">Tailwind</span>
+                                    <span className="Geist text-sm text-gray-400 font-medium bg-gray-800 rounded border border-gray-800 py-1 px-3">Dart</span>
                                 </div>
                             </div>
                         </div>
@@ -77,7 +76,7 @@ const Journey = () => {
                                             <p className="Geist text-xl font-semibold text-gray-200 mb-4">Backend Architecture</p>
                                             <span className="Geist text-sm font-medium px-3 py-1 md:rounded-full bg-gradient-to-r from-green-900/50 to-green-900/30 text-green-400 border border-green-900/50 mb-4">2+ years</span>
                                         </div>
-                                        <p className="text-md text-gray-400 mb-3">Designing scalable microservices and RESTful APIs with Node.js and Express</p>
+                                        <p className="text-md text-gray-400 mb-3">Designing scalable microservices and RESTful APIs with PHP and Express</p>
                                         <div className="flex flex-row gap-3">
                                             <span className="Geist text-xs rounded px-2.5 py-1 text-gray-400 bg-gray-800/50 border border-gray-800 font-medium">Express.js</span>
                                             <span className="Geist text-xs rounded px-2.5 py-1 text-gray-400 bg-gray-800/50 border border-gray-800 font-medium">PHP</span>

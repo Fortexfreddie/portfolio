@@ -2,9 +2,18 @@ import Conference from "../assets/images/conference.png";
 import Examly from "../assets/images/Examly.png";
 import skydrone from "../assets/images/skydrone.png";
 import lodgeFinder from "../assets/images/lodgeFinder.png";
+import lifestyle from "../assets/images/lifstyle.png";
 
 const Projects = () => {
     const projects = [
+        {
+            title: "Lifestyle Blog",
+            url: "http://lifestyleblogs.netlify.app/",
+            description: "Lifestyle is your go-to blog for fresh trends, and inspiring stories in fashion, wellness, tech, and culture to stay informed every day.",
+            image: lifestyle,
+            alt: "Lifestyle Blog",
+            tags: ["Blog", "React", "CSS", "Tailwind", "PHP", "MySQL"]
+        },
         {
             title: "Lodge Finder",
             url: "https://lodgefinders.netlify.app",
@@ -44,7 +53,7 @@ const Projects = () => {
             title: "progress",
             url: "#",
             description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur, laudantium",
-            imgText: "IP",
+            imgText: "P",
             alt: "In Progress",
             tags: ["In Progress", "HTML", "CSS", "JavaScript"],
         }
